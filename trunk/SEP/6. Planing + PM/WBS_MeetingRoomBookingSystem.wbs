@@ -13,25 +13,40 @@
 			<dow day="sat" working="no"/>
 		</calendar>
 		<currency symbol="$" digits="2" positiveOrder="0" negativeOrder="0"/>
-		<summary ScheduleFromStart="yes" CalculateCostProgress="no" MultipleCriticalPaths="no" CriticalSlack="0d" Name="WBSFinalProject" Title="WBSFinalProject" Duration="9d" Start="2012-05-16T08:00" Finish="2012-05-28T17:00"/>
+		<summary ScheduleFromStart="yes" CalculateCostProgress="no" MultipleCriticalPaths="no" CriticalSlack="0d" Name="WBS_MeetingRoomBookingSystem_rcm by SON" Title="WBS_MeetingRoomBookingSystem_rcm by SON" Duration="1d" Start="2012-05-27T08:00" Finish="2012-05-28T17:00"/>
 		<tasks>
-			<task ID="0" UniqueID="0" OutlineLevel="0" Name="WBSFinalProject" Duration="9d" RemainingDuration="9d" Start="2012-05-16T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-16T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-16T08:00" LateFinish="2012-05-28T17:00" Critical="yes"/>
-			<task ID="1" UniqueID="5" OutlineLevel="1" Name="Meeting Room Booking System" Duration="9d" RemainingDuration="9d" Start="2012-05-16T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-16T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-16T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="2" UniqueID="23" OutlineLevel="2" Name="Requirment" FreeSlack="3.625d" TotalSlack="3.625d" Duration="0.375d" RemainingDuration="0.375d" Start="2012-05-23T08:00" Finish="2012-05-23T11:00" EarlyStart="2012-05-23T08:00" EarlyFinish="2012-05-23T11:00" LateStart="2012-05-28T14:00" LateFinish="2012-05-28T17:00" EffortDriven="yes" Flag1="yes" FixedCostAccrual="Prorated"/>
-			<task ID="3" UniqueID="25" OutlineLevel="3" Name="SRS" FreeSlack="3.625d" TotalSlack="3.625d" Duration="3h" RemainingDuration="3h" ConstraintDate="2012-05-23T08:00" Start="2012-05-23T08:00" Finish="2012-05-23T11:00" EarlyStart="2012-05-23T08:00" EarlyFinish="2012-05-23T11:00" LateStart="2012-05-28T14:00" LateFinish="2012-05-28T17:00" EffortDriven="yes" ConstraintType="Start No Earlier Than" FixedCostAccrual="Prorated"/>
-			<task ID="4" UniqueID="22" OutlineLevel="2" Name="Analysis &amp; Design " FreeSlack="7.25d" TotalSlack="7.25d" Duration="1.75d" RemainingDuration="1.75d" Start="2012-05-16T08:00" Finish="2012-05-17T15:00" EarlyStart="2012-05-16T08:00" EarlyFinish="2012-05-17T15:00" LateStart="2012-05-25T10:00" LateFinish="2012-05-28T17:00" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="5" UniqueID="31" OutlineLevel="3" Name="SDS" FreeSlack="7.25d" TotalSlack="7.25d" Duration="14h" RemainingDuration="14h" Start="2012-05-16T08:00" Finish="2012-05-17T15:00" EarlyStart="2012-05-16T08:00" EarlyFinish="2012-05-17T15:00" LateStart="2012-05-25T10:00" LateFinish="2012-05-28T17:00" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="6" UniqueID="32" OutlineLevel="3" Name="SAD" FreeSlack="8.25d" TotalSlack="8.25d" Duration="6h" RemainingDuration="6h" Start="2012-05-16T08:00" Finish="2012-05-16T15:00" EarlyStart="2012-05-16T08:00" EarlyFinish="2012-05-16T15:00" LateStart="2012-05-28T10:00" LateFinish="2012-05-28T17:00" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="7" UniqueID="20" OutlineLevel="2" Name="Development" Duration="9d" RemainingDuration="9d" Start="2012-05-16T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-16T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-16T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="8" UniqueID="33" OutlineLevel="3" Name="Sources Code" Duration="72h" RemainingDuration="72h" Start="2012-05-16T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-16T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-16T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="9" UniqueID="44" OutlineLevel="3" Name="Defect Report" FreeSlack="9d" TotalSlack="9d" Start="2012-05-16T08:00" Finish="2012-05-16T08:00" EarlyStart="2012-05-16T08:00" EarlyFinish="2012-05-16T08:00" LateStart="2012-05-28T17:00" LateFinish="2012-05-28T17:00" Milestone="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="10" UniqueID="18" OutlineLevel="2" Name="Testting" FreeSlack="9d" TotalSlack="9d" Start="2012-05-16T08:00" Finish="2012-05-16T08:00" EarlyStart="2012-05-16T08:00" EarlyFinish="2012-05-16T08:00" LateStart="2012-05-28T17:00" LateFinish="2012-05-28T17:00" Milestone="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="11" UniqueID="17" OutlineLevel="3" Name="Test Plan" FreeSlack="9d" TotalSlack="9d" Start="2012-05-16T08:00" Finish="2012-05-16T08:00" EarlyStart="2012-05-16T08:00" EarlyFinish="2012-05-16T08:00" LateStart="2012-05-28T17:00" LateFinish="2012-05-28T17:00" Milestone="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="12" UniqueID="45" OutlineLevel="3" Name="Defect Report" FreeSlack="9d" TotalSlack="9d" Start="2012-05-16T08:00" Finish="2012-05-16T08:00" EarlyStart="2012-05-16T08:00" EarlyFinish="2012-05-16T08:00" LateStart="2012-05-28T17:00" LateFinish="2012-05-28T17:00" Milestone="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="13" UniqueID="16" OutlineLevel="2" Name="Parkaging &amp; Deployment" FreeSlack="8.875d" TotalSlack="8.875d" Duration="1h" RemainingDuration="1h" Start="2012-05-16T08:00" Finish="2012-05-16T09:00" EarlyStart="2012-05-16T08:00" EarlyFinish="2012-05-16T09:00" LateStart="2012-05-28T16:00" LateFinish="2012-05-28T17:00" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="14" UniqueID="46" OutlineLevel="2" Name="User Guide" FreeSlack="8d" TotalSlack="8d" Duration="1d" Start="2012-05-16T08:00" Finish="2012-05-16T17:00" EarlyStart="2012-05-16T08:00" EarlyFinish="2012-05-16T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="0" UniqueID="0" OutlineLevel="0" Name="WBS_MeetingRoomBookingSystem_rcm by SON" Duration="1d" RemainingDuration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes"/>
+			<task ID="1" UniqueID="1" OutlineLevel="1" Name="SEP project" Duration="1d" RemainingDuration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="2" UniqueID="4" OutlineLevel="2" Name="Requirement " Duration="1d" RemainingDuration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="3" UniqueID="9" OutlineLevel="3" Name="Get requirement" Duration="1d" RemainingDuration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="4" UniqueID="18" OutlineLevel="4" Name="Overall requirement" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="5" UniqueID="21" OutlineLevel="4" Name="Business process" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="6" UniqueID="10" OutlineLevel="3" Name="Analysis" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="7" UniqueID="11" OutlineLevel="3" Name="Specify requirement" Duration="1d" RemainingDuration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="8" UniqueID="19" OutlineLevel="4" Name="SRS-use case" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="9" UniqueID="32" OutlineLevel="4" Name="SRS-use case description" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="10" UniqueID="20" OutlineLevel="4" Name="SRS-UI" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="11" UniqueID="2" OutlineLevel="2" Name="Planning" Duration="1d" RemainingDuration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="12" UniqueID="12" OutlineLevel="3" Name="Estimate" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="13" UniqueID="13" OutlineLevel="3" Name="Schedule" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="14" UniqueID="14" OutlineLevel="3" Name="Risk management plan" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="15" UniqueID="5" OutlineLevel="2" Name="Design" Duration="1d" RemainingDuration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="16" UniqueID="17" OutlineLevel="3" Name="Architect" Duration="1d" RemainingDuration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="17" UniqueID="24" OutlineLevel="4" Name="SAD" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="18" UniqueID="15" OutlineLevel="3" Name="Overall design" Duration="1d" RemainingDuration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="19" UniqueID="25" OutlineLevel="4" Name="SDS-high level" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="20" UniqueID="16" OutlineLevel="3" Name="Detail design" Duration="1d" RemainingDuration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="21" UniqueID="26" OutlineLevel="4" Name="SDS-low level (to class and properties)" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="22" UniqueID="6" OutlineLevel="2" Name="Code" Duration="1d" RemainingDuration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="23" UniqueID="28" OutlineLevel="3" Name="Booking room management" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="24" UniqueID="29" OutlineLevel="3" Name="User management" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="25" UniqueID="30" OutlineLevel="3" Name="System management (send email, log in, log out ...)" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="26" UniqueID="7" OutlineLevel="2" Name="Test" Duration="1d" RemainingDuration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="27" UniqueID="27" OutlineLevel="3" Name="Integrated test" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="28" UniqueID="31" OutlineLevel="3" Name="Test plan" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="29" UniqueID="8" OutlineLevel="2" Name="Deployment" Duration="1d" Start="2012-05-28T08:00" Finish="2012-05-28T17:00" EarlyStart="2012-05-28T08:00" EarlyFinish="2012-05-28T17:00" LateStart="2012-05-28T08:00" LateFinish="2012-05-28T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="46"/>
+		<outline current="8"/>
 	</proj>
 	<printInfo mode="scale" orient="landscape" pagesWide="1" pagesHigh="1" scale="100%" bw="no" enlarge="no" byColumn="no" adjustPageBreaks="no" marginTop="36pt" marginLeft="36pt" marginBottom="36pt" marginRight="36pt"/>
 	<pageLayouts>
@@ -170,8 +185,8 @@
 			<border id="frame" bkcolor="none"/>
 		</pageLayout>
 	</pageLayouts>
-	<views current="Critical Path View 2" current_wbs="Critical Path View 2" mode="normal">
-		<wbs_view id="Critical Path View 2" pagelayout="Page Layout 8" outlinesymbolpos="bottomcenter">
+	<views current="Planning View" current_wbs="Planning View" mode="normal">
+		<wbs_view id="Critical Path View 2" pagelayout="Page Layout 8" outlinesymbolpos="bottomcenter" field="Actual Duration">
 			<item id="summary" before="14.4pt"/>
 			<item id="task" before="7.2pt" listmode="stemleft"/>
 			<border id="Critical Task" shdir="bottom_right" shdepth="3pt" shcolor="red" bkcolor="lightyellow"/>
@@ -203,26 +218,27 @@
 					<cell field="Finish" format="1" left_p="3.6pt" right_p="3.6pt" top_p="0.7pt" bottom_p="0.7pt" left_s="solid" top_s="solid"/>
 				</row>
 			</grid>
-			<grid id="task" rows="4" cols="3" top="1">
+			<grid id="task" rows="5" cols="3" top="1">
 				<row>
 					<cell field="WBS" halign="left" bold="yes" color="red" left_p="0.7pt" right_p="0.7pt" top_p="0pt" bottom_p="0pt" colspan="3"/>
 				</row>
 				<row stretch="yes">
-					<cell field="ID" bold="yes" orient="bottomtop" bkcolor="yellow" left_p="0.7pt" right_p="0.7pt" top_p="0.7pt" bottom_p="0.7pt" right_s="solid" top_s="solid" bottom_s="solid" rowspan="3"/>
+					<cell field="ID" bold="yes" orient="bottomtop" bkcolor="yellow" left_p="0.7pt" right_p="0.7pt" top_p="0.7pt" bottom_p="0.7pt" right_s="solid" top_s="solid" bottom_s="solid" rowspan="4"/>
 					<cell field="Name" type="wraptext" bold="yes" left_p="3.6pt" right_p="3.6pt" top_p="1.45pt" bottom_p="1.45pt" left_s="solid" right_s="solid" bottom_s="solid" colspan="2" stretch="yes" charlen="20"/>
 				</row>
 				<row>
-					<cell field="Duration" format="5" left_p="3.6pt" right_p="3.6pt" top_p="0.7pt" bottom_p="0.7pt" left_s="solid" right_s="solid" top_s="solid" bottom_s="solid"/>
-					<cell field="% Complete" left_p="3.6pt" right_p="3.6pt" top_p="0.7pt" bottom_p="0.7pt" left_s="solid" top_s="solid" bottom_s="solid" stretch="yes"/>
+					<cell field="Resource Names" type="wraptext" bold="yes" left_p="3.6pt" right_p="3.6pt" top_p="1.45pt" bottom_p="1.45pt" left_s="solid" right_s="solid" top_s="solid" bottom_s="solid" charlen="20"/>
+					<cell top_s="solid" stretch="yes"/>
+				</row>
+				<row>
+					<cell field="Actual Duration" left_p="3.6pt" right_p="3.6pt" top_p="0.7pt" bottom_p="0.7pt" left_s="solid" right_s="solid" top_s="solid" bottom_s="solid"/>
+					<cell field="% Complete" left_p="3.6pt" right_p="3.6pt" top_p="0.7pt" bottom_p="0.7pt" left_s="solid" top_s="solid" bottom_s="solid"/>
 				</row>
 				<row>
 					<cell field="Start" format="1" left_p="3.6pt" right_p="3.6pt" top_p="0.7pt" bottom_p="0.7pt" left_s="solid" right_s="solid" top_s="solid"/>
 					<cell field="Finish" format="1" left_p="3.6pt" right_p="3.6pt" top_p="0.7pt" bottom_p="0.7pt" left_s="solid" top_s="solid"/>
 				</row>
 			</grid>
-<wbs_diff>
-</wbs_diff>
-
 		</wbs_view>
 		<wbs_view id="Critical Path View" pagelayout="Page Layout 1" outlinesymbolpos="bottomcenter">
 			<item id="summary" before="14.4pt"/>
@@ -363,7 +379,7 @@
 				</row>
 			</grid>
 		</wbs_view>
-		<wbs_view id="Hours and Cost View" pagelayout="Page Layout 6" outlinesymbolpos="bottomcenter">
+		<wbs_view id="Hours and Cost View" pagelayout="Page Layout 6" outlinesymbolpos="bottomcenter" field="Cost">
 			<item id="summary" before="18pt"/>
 			<item id="task" before="14.4pt" listmode="stemleft"/>
 			<border id="Critical Task" shdir="bottom_right" shdepth="3pt" shcolor="red" bkcolor="lightyellow"/>
@@ -383,7 +399,7 @@
 					<cell field="Name" type="wraptext" bold="yes" left_p="3.6pt" right_p="3.6pt" top_p="1.45pt" bottom_p="1.45pt" left_s="solid" right_s="solid" bottom_s="solid" colspan="2" charlen="25"/>
 				</row>
 				<row>
-					<cell field="Work" format="5" left_p="3.6pt" right_p="3.6pt" top_p="0.7pt" bottom_p="0.7pt" left_s="solid" right_s="solid" top_s="solid" bottom_s="solid"/>
+					<cell field="Work" left_p="3.6pt" right_p="3.6pt" top_p="0.7pt" bottom_p="0.7pt" left_s="solid" right_s="solid" top_s="solid" bottom_s="solid"/>
 					<cell field="Cost" left_p="3.6pt" right_p="3.6pt" top_p="0.7pt" bottom_p="0.7pt" left_s="solid" top_s="solid" bottom_s="solid"/>
 				</row>
 			</grid>
@@ -392,7 +408,7 @@
 					<cell field="Name" type="wraptext" bold="yes" left_p="3.6pt" right_p="3.6pt" top_p="1.45pt" bottom_p="1.45pt" left_s="solid" right_s="solid" bottom_s="solid" colspan="2" charlen="25"/>
 				</row>
 				<row>
-					<cell field="Work" format="5" left_p="3.6pt" right_p="3.6pt" top_p="0.7pt" bottom_p="0.7pt" left_s="solid" right_s="solid" top_s="solid" bottom_s="solid"/>
+					<cell field="Text1" left_p="3.6pt" right_p="3.6pt" top_p="0.7pt" bottom_p="0.7pt" left_s="solid" right_s="solid" top_s="solid" bottom_s="solid"/>
 					<cell field="Cost" left_p="3.6pt" right_p="3.6pt" top_p="0.7pt" bottom_p="0.7pt" left_s="solid" top_s="solid" bottom_s="solid"/>
 				</row>
 			</grid>
@@ -454,6 +470,9 @@
 					<cell field="Name" type="wraptext" bold="yes" left_p="3.6pt" right_p="3.6pt" top_p="3.6pt" bottom_p="3.6pt" barcolor="red" charlen="20"/>
 				</row>
 			</grid>
+<wbs_diff>
+</wbs_diff>
+
 		</wbs_view>
 		<wbs_view id="Progress View" pagelayout="Page Layout 8" borderpolicy="progress" outlinesymbolpos="bottomcenter">
 			<item id="summary" before="14.4pt"/>
