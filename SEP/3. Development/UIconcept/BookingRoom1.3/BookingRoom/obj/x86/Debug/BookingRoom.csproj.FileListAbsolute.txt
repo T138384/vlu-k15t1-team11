@@ -32,3 +32,5 @@ D:\WEB\BookingRoom\BookingRoom\obj\x86\Debug\BookingRoom.UI.Message.msg_xoa.reso
 D:\WEB\BookingRoom\BookingRoom\obj\x86\Debug\BookingRoom.UI.quanlyphong_lau.frm_chinhsualau.resources
 D:\WEB\BookingRoom\BookingRoom\obj\x86\Debug\BookingRoom.UI.Message.msg_chinhsuathanhcong.resources
 D:\WEB\BookingRoom\BookingRoom\obj\x86\Debug\BookingRoom.UI.Main.frm_chinhsuathongtinlau.resources
+C:\Users\TIN NGUYEN\Desktop\vlu-k15t1-team11\SEP\3. Development\UIconcept\BookingRoom1.3\BookingRoom\obj\x86\Debug\BookingRoom.exe
+C:\Users\TIN NGUYEN\Desktop\vlu-k15t1-team11\SEP\3. Development\UIconcept\BookingRoom1.3\BookingRoom\obj\x86\Debug\BookingRoom.pdb
