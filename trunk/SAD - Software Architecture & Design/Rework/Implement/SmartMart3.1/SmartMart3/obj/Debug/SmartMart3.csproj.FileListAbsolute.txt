@@ -1,0 +1,7 @@
+D:\WEB\SmartMart3\SmartMart3\bin\SmartMart3.dll
+D:\WEB\SmartMart3\SmartMart3\bin\SmartMart3.pdb
+D:\WEB\SmartMart3\SmartMart3\bin\EntityFramework.dll
+D:\WEB\SmartMart3\SmartMart3\bin\EntityFramework.xml
+D:\WEB\SmartMart3\SmartMart3\obj\Debug\ResolveAssemblyReference.cache
+D:\WEB\SmartMart3\SmartMart3\obj\Debug\SmartMart3.dll
+D:\WEB\SmartMart3\SmartMart3\obj\Debug\SmartMart3.pdb

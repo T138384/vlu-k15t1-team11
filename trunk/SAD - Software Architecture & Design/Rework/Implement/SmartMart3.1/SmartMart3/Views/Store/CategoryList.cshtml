@@ -1,0 +1,13 @@
+﻿@model IEnumerable<SmartMart3.Models.Category>
+@{
+    ViewBag.Title = "ViewList - Category";
+}
+<link href="../../Content/Site.css" rel="stylesheet" type="text/css" />
+<ul id="categories">
+    @foreach (var category in Model)
+    {
+        <li>@Html.ActionLink(category.strName,
+                 "ViewList", "Store", new { cateId = category.Id }, null)
+        </li>
+    }
+</ul>
