@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Template>
+<subject>Yêu cầu đặt phòng đã dược duyệt</subject>
+<h>Chào </h>
+<h1>Dưới đây là thông tin đặt phòng của bạn đã được duyệt</h1>
+<h2>ĐỊa điểm tại phòng: </h2>
+<h3>thời gian: </h3>
+<h4>Bạn vui lòng đợi đến nhận phòng đúng thời gian đã đặt</h4>
+<h5>Khoa CNTT</h5>
+</Template>
