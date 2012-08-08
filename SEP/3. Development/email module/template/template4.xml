@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Template>
+<subject>Yêu cầu đặt phòng đã bị từ chối</subject>
+<h>Chào </h>
+<h1>Dưới đây là thông tin đặt phòng của bạn đã bị từ chốit</h1>
+<h2>ĐỊa điểm tại phòng: </h2>
+<h3>thời gian: </h3>
+<h4>Bạn vui lòng thông cảm cho chúng tối và tiến hành đặt lại phòng khác</h4>
+<h5>Khoa CNTT</h5>
+</Template>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Template>
+<subject>Chào mừng đến với hệ thống đặt phòng</subject>
+<h>Chào </h>
+<h1>Dưới đây là thông tin tài khoản của bạn trong hệ thống quản lý phòng họp</h1>
+<h2>Tài khoản: </h2>
+<h3>Mật khẩu: </h3>
+<h4>Bạn vui lòng đăng nhập vào tài khoản và thay đổi mật khẩu nếu thấy cần</h4>
+<h5>Khoa CNTT</h5>
+</Template>
